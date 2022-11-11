@@ -11,7 +11,7 @@ Aşağıda bağlantıları verilen videolar üzerinden neyi nerede ve nasıl kul
 <div align="center">
     <h3>Github Dersleri</h3>
     <a href="https://youtube.com/playlist?list=PLPrHLaayVkhnNstGIzQcxxnj6VYvsHBHy">
-        <img height="300" src="https://img.youtube.com/vi/rWG70T7fePg/0.jpg" alt="Github Dersleri"/>
+        <img height="150" src="https://raw.githubusercontent.com/AyverdiOpenSource/.github/main/profile/github-dersler.jpg" style="border-radius:10px" alt="Github Dersleri"/>
     </a><br>
     (Toplam 23 Video, 1 Saat 25 Dakika)
 </div>
